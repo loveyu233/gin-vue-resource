@@ -1,0 +1,22 @@
+log:
+    max-age: 30
+    max-backups: 60
+    max-size: 200
+    mode: dev
+mongodb:
+    addr: 127.0.0.1:27017
+    dbname: gvr
+    param: authSource=admin
+    password: password
+    username: username
+mysql:
+    addr: 127.0.0.1:3306
+    dbname: gvr
+    username: root
+other:
+    port: 9666
+redis:
+    addr: 127.0.0.1:6379
+token:
+    refresh_secret: gin-vue-resource-refresh-secret
+    secret: gin-vue-resource-secret

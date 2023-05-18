@@ -1,0 +1,13 @@
+2023-05-12T20:15:05.103+0800	error	api/user.go:16	Key: 'UserLogin.Email' Error:Field validation for 'Email' failed on the 'email' tag
+2023-05-12T20:33:22.651+0800	error	api/user.go:17	Key: 'UserLogin.Email' Error:Field validation for 'Email' failed on the 'email' tag
+2023-05-12T20:34:09.486+0800	error	api/user.go:17	Key: 'UserLogin.email' Error:Field validation for 'email' failed on the 'email' tag
+2023-05-12T20:34:48.251+0800	error	api/user.go:17	Key: 'UserLogin.email' Error:Field validation for 'email' failed on the 'email' tag
+2023-05-12T20:34:54.777+0800	error	api/user.go:17	Key: 'UserLogin.email' Error:Field validation for 'email' failed on the 'email' tag
+Key: 'UserLogin.password' Error:Field validation for 'password' failed on the 'required' tag
+2023-05-12T20:35:24.153+0800	error	api/user.go:17	Key: 'UserLogin.email' Error:Field validation for 'email' failed on the 'required' tag
+Key: 'UserLogin.password' Error:Field validation for 'password' failed on the 'required' tag
+2023-05-12T20:35:30.798+0800	error	api/user.go:17	Key: 'UserLogin.email' Error:Field validation for 'email' failed on the 'required' tag
+Key: 'UserLogin.password' Error:Field validation for 'password' failed on the 'required' tag
+2023-05-12T21:31:15.914+0800	error	api/user.go:17	Key: 'UserLogin.password' Error:Field validation for 'password' failed on the 'min' tag
+2023-05-12T21:31:32.093+0800	error	api/user.go:17	Key: 'UserLogin.password' Error:Field validation for 'password' failed on the 'min' tag
+2023-05-12T21:31:52.653+0800	error	api/user.go:17	Key: 'UserLogin.password' Error:Field validation for 'password' failed on the 'min' tag
